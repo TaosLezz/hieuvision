@@ -1,6 +1,6 @@
 [project]
 name = "hieuvision"
-version = "0.1.0"
+version = "0.1.1"
 description = "A modular computer vision toolkit with augmentation and more."
 authors = [
   { name = "Hieu Nguyen", email = "nguyenminhhieudn02@gmail.com" }
