@@ -1,0 +1,1 @@
+A modular computer vision toolkit with support for data augmentation and more.
