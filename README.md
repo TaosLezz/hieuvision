@@ -122,22 +122,6 @@ hieuvision/
 
 ---
 
-## 📤 Publishing to PyPI
-
-This project supports GitHub Actions for automatic publishing. Just push a Git tag like `v0.1.0`, and the package will be published to [https://pypi.org/project/hieuvision](https://pypi.org/project/hieuvision).
-
-Make sure to:
-
-- Create a PyPI token and add it to your repo secrets as `PYPI_API_TOKEN`
-- Push your tag:
-
-```bash
-git tag v0.1.0
-git push origin v0.1.0
-```
-
----
-
 ## 📝 License
 
-MIT License © 2025 Your Name
+MIT License © 2025 Hieu Nguyen
